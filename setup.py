@@ -11,14 +11,14 @@ beautifulsoup4==4.12.3
 pyodbc==5.2.0'''.split('\n')
 
 setup(
-    name='my_library',  # Название вашей библиотеки
+    name='hrenpack',  # Название вашей библиотеки
     version='0.1.0',  # Версия
     author_email='hrenpack@mail.ru',
     author='Маг Ильяс DOMA (MagIlyas_DOMA)',  # Авторы
     description=desc,  # Описание
     long_description=open('README.md').read(),  # Долгое описание (обычно из README)
     long_description_content_type='text/markdown',  # Формат долгого описания
-    url='https://github.com/ваш_профиль/my_library',  # URL репозитория
+    url='https://github.com/MagIlyas-DOMA/hrenpack',  # URL репозитория
     packages=['hrenpack'],  # Найдите пакеты автоматически
     license=open('LICENSE.md').read(),
     classifiers=[
