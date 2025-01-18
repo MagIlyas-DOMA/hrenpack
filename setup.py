@@ -1,4 +1,4 @@
-from setuptools import setup, find_packages
+from setuptools import setup
 
 desc = '\n'.join(("Универсальная библиотека python для большинства задач", 'A universal python library for most tasks'))
 req = '''soundfile==0.13.0
