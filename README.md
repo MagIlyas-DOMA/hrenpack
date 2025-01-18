@@ -38,7 +38,7 @@
 В папке ресурсов находятся файлы ресурсов для корректной работы hrenpack
 
 Использование:
-Данная библиотека распостраняется по [4-пунктной лицензии BSD](https://ru.wikipedia.org/wiki/%D0%9B%D0%B8%D1%86%D0%B5%D0%BD%D0%B7%D0%B8%D0%B8_BSD#4-%D0%BF%D1%83%D0%BD%D0%BA%D1%82%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BB%D0%B8%D1%86%D0%B5%D0%BD%D0%B7%D0%B8%D1%8F,_%D0%B8%D0%BB%D0%B8_%D0%B8%D0%B7%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BB%D0%B8%D1%86%D0%B5%D0%BD%D0%B7%D0%B8%D1%8F_BSD)
+Данная библиотека распостраняется по 3-пунктной лицензии BSD
 
 -----------------------------------------------------------------------------------------------------
 
@@ -81,5 +81,5 @@ Resources:
 The resource folder contains resource files for the correct operation of hrenpack
 
 Usage:
-This library is distributed under a [4-clause license BSD](https://en.wikipedia.org/wiki/BSD_licenses#4-clause_license_(original_%22BSD_License%22))
+This library is distributed under a 3-clause license BSD
 
