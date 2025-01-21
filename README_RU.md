@@ -1,5 +1,5 @@
 # hrenpack
-#### [README in english](https://github.com/MagIlyas-DOMA/hrenpack/blob/main/README.md)
+#### [README in English](https://github.com/MagIlyas-DOMA/hrenpack/blob/main/README.md)
 #### Универсальная библиотека python для большинства задач.
 
 Делится на несколько пакетов:  
